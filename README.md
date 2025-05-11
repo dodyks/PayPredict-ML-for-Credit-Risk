@@ -1,7 +1,5 @@
 # PayPredict-ML-for-Credit-Risk
 
-# CreditGuard AI: Payment Delay Prediction
-
 A machine learning solution to predict credit card payment delays at FinanKu financial institution.
 
 ## 📊 Project Overview
@@ -35,17 +33,3 @@ This project develops predictive models to identify customers at risk of credit 
 - Python, Pandas, Scikit-learn
 - Jupyter Notebooks
 - Matplotlib/Seaborn for visualization
-
-## 📁 Repository Structure
-
-- `notebooks/`: Jupyter notebooks with analysis
-- `data/`: Dataset files
-- `models/`: Saved model files
-- `reports/`: Result visualizations
-
-## 📌 Getting Started
-
-```bash
-git clone https://github.com/yourusername/creditguard-ai.git
-pip install -r requirements.txt
-jupyter notebook
